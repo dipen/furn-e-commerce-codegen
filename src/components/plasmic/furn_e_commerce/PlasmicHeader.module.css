@@ -1,0 +1,194 @@
+.root {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  min-width: 0;
+}
+.freeBox__ggdnO {
+  display: flex;
+  width: 100%;
+  height: auto;
+  min-width: 0;
+  padding: 32px 0px;
+}
+.freeBox__ggdnO > :global(.__wab_flex-container) {
+  justify-content: space-between;
+  align-items: center;
+  margin-left: calc(0px - 5px);
+  width: calc(100% + 5px);
+}
+.freeBox__ggdnO > :global(.__wab_flex-container) > *,
+.freeBox__ggdnO > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__ggdnO > :global(.__wab_flex-container) > picture > img,
+.freeBox__ggdnO
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 5px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .freeBox__ggdnO {
+    padding: 16px 5px;
+  }
+}
+.menuButton:global(.__wab_instance) {
+  position: relative;
+  flex-shrink: 0;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .menuButton:global(.__wab_instance) {
+    flex-shrink: 0;
+  }
+}
+.menuButton__expanded:global(.__wab_instance) {
+  flex-shrink: 0;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .menuButton__expanded:global(.__wab_instance) {
+    flex-shrink: 0;
+  }
+}
+.link {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  width: 200px;
+  flex-shrink: 0;
+}
+.img {
+  object-fit: cover;
+  width: 100%;
+  min-width: 0;
+}
+.img > picture > img {
+  object-fit: cover;
+}
+.img > .__wab_img-spacer > img {
+  object-fit: cover;
+}
+.freeBox__qj52K {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+.linkButton__tmv:global(.__wab_instance) {
+  position: relative;
+  flex-shrink: 0;
+}
+.linkButton__kIze:global(.__wab_instance) {
+  position: relative;
+  flex-shrink: 0;
+}
+.linkButton__zukS8:global(.__wab_instance) {
+  position: relative;
+  flex-shrink: 0;
+}
+.linkButton__osyf:global(.__wab_instance) {
+  position: relative;
+  flex-shrink: 0;
+}
+.linkButton__tfCm:global(.__wab_instance) {
+  position: relative;
+  flex-shrink: 0;
+}
+.freeBox__zwc3I {
+  display: inline-flex;
+  position: relative;
+  flex-direction: row;
+  width: auto;
+}
+.freeBox__zwc3I > :global(.__wab_flex-container) {
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  margin-left: calc(0px - 10px);
+  width: calc(100% + 10px);
+}
+.freeBox__zwc3I > :global(.__wab_flex-container) > *,
+.freeBox__zwc3I > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__zwc3I > :global(.__wab_flex-container) > picture > img,
+.freeBox__zwc3I
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 10px;
+}
+.iconLink__uofg0:global(.__wab_instance) {
+  position: relative;
+  flex-shrink: 0;
+}
+.svg__mctk {
+  position: relative;
+  object-fit: cover;
+  color: rgb(95, 91, 87) /* plasmic-token: iLpzmQIPEg_u */;
+  width: 18px;
+  height: 18px;
+}
+.root .svg__mctk:hover {
+  color: rgb(233, 156, 46) /* plasmic-token: Q-rIULoK0C8Q */;
+}
+.iconLink__qOyBs:global(.__wab_instance) {
+  position: relative;
+  flex-shrink: 0;
+}
+.svg__u4Ob0 {
+  position: relative;
+  object-fit: cover;
+  color: rgb(95, 91, 87) /* plasmic-token: iLpzmQIPEg_u */;
+  width: 18px;
+  height: 18px;
+}
+.root .svg__u4Ob0:hover {
+  color: rgb(233, 156, 46);
+}
+.iconLink__tHfw:global(.__wab_instance) {
+  position: relative;
+  flex-shrink: 0;
+}
+.svg__iuHWd {
+  position: relative;
+  object-fit: cover;
+  color: rgb(95, 91, 87) /* plasmic-token: iLpzmQIPEg_u */;
+  width: 18px;
+  height: 18px;
+}
+.root .svg__iuHWd:hover {
+  color: rgb(233, 156, 46) /* plasmic-token: Q-rIULoK0C8Q */;
+}
+.freeBox___00UfQ {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.linkButton__uHj49:global(.__wab_instance) {
+  position: relative;
+  flex-shrink: 0;
+}
+.linkButton__uLqbo:global(.__wab_instance) {
+  position: relative;
+  flex-shrink: 0;
+}
+.linkButton__nf22T:global(.__wab_instance) {
+  position: relative;
+  flex-shrink: 0;
+}
+.linkButton__qcBMk:global(.__wab_instance) {
+  position: relative;
+  flex-shrink: 0;
+}
+.linkButton__pd1U3:global(.__wab_instance) {
+  position: relative;
+  flex-shrink: 0;
+}
